@@ -7,7 +7,7 @@ function Login()
     var f=0;
     for(let i=0;i<5;i++)
     {
-    fetch("http://localhost:3000/users")
+    fetch("http://f309063d.ngrok.io/users")
     .then(function(resp){return resp.json();})
     .then(function(data){
       if((username==data[i].username)&&(email==data[i].email)&&(password==data[i].password))
