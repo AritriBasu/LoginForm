@@ -1,0 +1,32 @@
+ {
+    "users":
+    [
+        {
+            "username":"aritri",
+            "email":"aritri.basu2019@vitstudent.ac.in",
+            "password":"aritri"
+        },
+    
+        {
+            "username":"kashish",
+            "email":"kashish.mittal2019@vitstudent.ac.in",
+            "password":"aritri"
+        },
+    
+        {
+            "username":"elio",
+            "email":"elio.jordan2019@vitstudent.ac.in",
+            "password":"aritri"
+        },
+        {
+            "username":"anukriti",
+            "email":"anukriti.verma2019@vitstudent.ac.in",
+            "password":"aritri"
+        },
+        {
+            "username":"kaustubh",
+            "email":"kaustubh.shrivastava2019@vitstudent.ac.in",
+            "password":"aritri"
+        }
+    ]
+}
