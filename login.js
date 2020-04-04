@@ -18,7 +18,7 @@ function Login()
          } 
       });
     }//for
-    if(f==1)   
+    if(f==0)   
       alert("Login failed!Try Agin!");
   }//func Login
 
