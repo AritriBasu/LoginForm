@@ -5,7 +5,7 @@ function Login()
     var password=document.getElementById("password").value; 
     var f=0;
     
-    fetch("http://1e9062ae.ngrok.io/users")
+    fetch("https://6cda39c5.ngrok.io/users")
     .then(function(resp){return resp.json();})
     .then(function(data){
     for(let i=0;i<5;i++)
